@@ -109,5 +109,3 @@ renders notes
 end note 
 
 ```
-# FullStackOpen
-# FullStackOpen
